@@ -1,2 +1,3 @@
 # PRODIGY_DS_01
-This is a datascience internship project
+This is a datascience PRODIGY INFOTECH 
+internship project
